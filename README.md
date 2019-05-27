@@ -10,6 +10,7 @@ A curated list of Causal Inference tutorial, software, twitter, etc.
 * [Blog Posts](#blog-Posts)
 * [Books](#books)
 * [Technical and white papers](#technical-and-white-papers)
+* [Confrences](#confrences)
 * [Twitter Accounts ](#twitter-accounts)
 * [Toolboxes - Environment](#toolboxes---environment)
 * [Comics](#comics)
@@ -42,6 +43,12 @@ Cause, as verb and a noun was studied, discusses and argued about from early day
 ## Technical and white papers
 * [Causal inference in statistics: An overview - Judea Pear](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
 
+## Confrences
+* [WHY19 - Beyond Curve Fitting: Causation, Counterfactuals, and Imagination-based AI](https://why19.causalai.net/)
+* [EuroCim 2018 - European Causal Inference Meeting](http://eurocim2018.arcolab.org/)
+* [ACIC 2019 - Atlantic Causal Inference Conference](https://www.mcgill.ca/epi-biostat-occh/news-events/atlantic-causal-inference-conference-2019)
+* [ACIC 2018 - Atlantic Causal Inference Conference](https://www.cmu.edu/acic2018/)
+
 ## Twitter Accounts
 * [Judea Pearl](https://twitter.com/yudapearl)
 * [Suchi Saria](https://twitter.com/suchisaria)
@@ -51,7 +58,9 @@ Cause, as verb and a noun was studied, discusses and argued about from early day
 * [Miguel Hernan](https://twitter.com/_MiguelHernan)
 * [Amit Sharma](https://twitter.com/amt_shrma)
 * [Emre Kıcıman](https://twitter.com/emrek)
-
+* [Elias Bareinboim](https://twitter.com/eliasbareinboim)
+* [Alex Dimakis](https://twitter.com/AlexGDimakis)
+* [Csaba Szepesvari](https://twitter.com/CsabaSzepesvari)
 
 ## Toolboxes - Environment
 

@@ -54,18 +54,18 @@ Cause, as verb and a noun was studied, discusses and argued about from early day
 | Name | homepage | Twitter |
 | -------- | ---- | ---- |
 | Judea Pearl |[http://bayes.cs.ucla.edu/jp_home.html](http://bayes.cs.ucla.edu/jp_home.html) | [yudapearl](https://twitter.com/yudapearl) |
-| Suchi Saria | | [suchisaria](https://twitter.com/suchisaria) |
-| Uri Shalit | | [ShalitUri](https://twitter.com/ShalitUri)|
-| Daniel Nevo | |[DanielNevo](https://twitter.com/DanielNevo)|
-| Ziad Obermayer | |[oziadias](https://twitter.com/oziadias)|
-| Miguel Hernan | |[_MiguelHernan](https://twitter.com/_MiguelHernan)|
-| Jamie Robins | [https://www.hsph.harvard.edu/james-robins/](https://www.hsph.harvard.edu/james-robins/)|
-| Amit Sharma | |[amt_shrma](https://twitter.com/amt_shrma)|
-| Emre Kıcıman | |[emrek](https://twitter.com/emrek)|
+| Suchi Saria | [https://suchisaria.jhu.edu/](https://suchisaria.jhu.edu/) | [suchisaria](https://twitter.com/suchisaria) |
+| Uri Shalit | [https://web.iem.technion.ac.il/en/people/urishalit.html](https://web.iem.technion.ac.il/en/people/urishalit.html) | [ShalitUri](https://twitter.com/ShalitUri)|
+| Daniel Nevo | [https://danielnevo.wordpress.com/](https://danielnevo.wordpress.com/)|[DanielNevo](https://twitter.com/DanielNevo)|
+| Ziad Obermayer | [http://sph.berkeley.edu/ziad-obermeyer-md](http://sph.berkeley.edu/ziad-obermeyer-md) |[oziadias](https://twitter.com/oziadias)|
+| Miguel Hernan | [https://www.hsph.harvard.edu/miguel-hernan/](https://www.hsph.harvard.edu/miguel-hernan/) |[_MiguelHernan](https://twitter.com/_MiguelHernan)|
+| Jamie Robins | [https://www.hsph.harvard.edu/james-robins/](https://www.hsph.harvard.edu/james-robins/) | |
+| Amit Sharma | [http://www.amitsharma.in/](http://www.amitsharma.in/) |[amt_shrma](https://twitter.com/amt_shrma)|
+| Emre Kıcıman | [http://kiciman.org/](http://kiciman.org/) |[emrek](https://twitter.com/emrek)|
 | Elias Bareinboim |[https://causalai.net/](https://causalai.net/) |[eliasbareinboim](https://twitter.com/eliasbareinboim)|
 | Alex Dimakis | [https://users.ece.utexas.edu/~dimakis/](https://users.ece.utexas.edu/~dimakis/)| [AlexGDimakis](https://twitter.com/AlexGDimakis)|
-| Csaba Szepesvari | |[CsabaSzepesvari](https://twitter.com/CsabaSzepesvari)|
-| Ellie Murray | | [EpiEllie]((https://twitter.com/EpiEllie))|
+| Csaba Szepesvari | [https://sites.ualberta.ca/~szepesva/](https://sites.ualberta.ca/~szepesva/) |[CsabaSzepesvari](https://twitter.com/CsabaSzepesvari)|
+| Ellie Murray | [https://scholar.harvard.edu/eleanormurray/home](https://scholar.harvard.edu/eleanormurray/home) | [EpiEllie]((https://twitter.com/EpiEllie))|
 | Luke Keele | [http://lukekeele.com/](http://lukekeele.com/)| |
 | Ilya Shpitser | [https://www.cs.jhu.edu/~ilyas/](https://www.cs.jhu.edu/~ilyas/) | |
 | David Blie | [http://www.cs.columbia.edu/~blei/](http://www.cs.columbia.edu/~blei/) | |

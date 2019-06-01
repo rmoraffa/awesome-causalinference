@@ -11,7 +11,7 @@ A curated list of Causal Inference tutorial, software, twitter, etc.
 * [Books](#books)
 * [Technical and white papers](#technical-and-white-papers)
 * [Confrences](#confrences)
-* [Twitter Accounts ](#twitter-accounts)
+* [People](#people)
 * [Toolboxes - Environment](#toolboxes---environment)
 * [Comics](#comics)
 * [Tutorials](#tutorials)
@@ -49,18 +49,32 @@ Cause, as verb and a noun was studied, discusses and argued about from early day
 * [ACIC 2019 - Atlantic Causal Inference Conference](https://www.mcgill.ca/epi-biostat-occh/news-events/atlantic-causal-inference-conference-2019)
 * [ACIC 2018 - Atlantic Causal Inference Conference](https://www.cmu.edu/acic2018/)
 
-## Twitter Accounts
-* [Judea Pearl](https://twitter.com/yudapearl)
-* [Suchi Saria](https://twitter.com/suchisaria)
-* [Uri Shalit](https://twitter.com/ShalitUri)
-* [Daniel Nevo](https://twitter.com/DanielNevo)
-* [Ziad Obermeyer](https://twitter.com/oziadias)
-* [Miguel Hernan](https://twitter.com/_MiguelHernan)
-* [Amit Sharma](https://twitter.com/amt_shrma)
-* [Emre Kıcıman](https://twitter.com/emrek)
-* [Elias Bareinboim](https://twitter.com/eliasbareinboim)
-* [Alex Dimakis](https://twitter.com/AlexGDimakis)
-* [Csaba Szepesvari](https://twitter.com/CsabaSzepesvari)
+## People
+
+| Name | homepage | Twitter |
+| -------- | ---- | ---- |
+| Judea Pearl |[http://bayes.cs.ucla.edu/jp_home.html](http://bayes.cs.ucla.edu/jp_home.html) | [yudapearl](https://twitter.com/yudapearl) |
+| Suchi Saria | | [suchisaria](https://twitter.com/suchisaria) |
+| Uri Shalit | | [ShalitUri](https://twitter.com/ShalitUri)|
+| Daniel Nevo | |[DanielNevo](https://twitter.com/DanielNevo)|
+| Ziad Obermayer | |[oziadias](https://twitter.com/oziadias)|
+| Miguel Hernan | |[_MiguelHernan](https://twitter.com/_MiguelHernan)|
+| Jamie Robins | [https://www.hsph.harvard.edu/james-robins/](https://www.hsph.harvard.edu/james-robins/)|
+| Amit Sharma | |[amt_shrma](https://twitter.com/amt_shrma)|
+| Emre Kıcıman | |[emrek](https://twitter.com/emrek)|
+| Elias Bareinboim |[https://causalai.net/](https://causalai.net/) |[eliasbareinboim](https://twitter.com/eliasbareinboim)|
+| Alex Dimakis | [https://users.ece.utexas.edu/~dimakis/](https://users.ece.utexas.edu/~dimakis/)| [AlexGDimakis](https://twitter.com/AlexGDimakis)|
+| Csaba Szepesvari | |[CsabaSzepesvari](https://twitter.com/CsabaSzepesvari)|
+| Ellie Murray | | [EpiEllie]((https://twitter.com/EpiEllie))|
+| Luke Keele | [http://lukekeele.com/](http://lukekeele.com/)| |
+| Ilya Shpitser | [https://www.cs.jhu.edu/~ilyas/](https://www.cs.jhu.edu/~ilyas/) | |
+| David Blie | [http://www.cs.columbia.edu/~blei/](http://www.cs.columbia.edu/~blei/) | |
+| Alex D'Amour | [http://www.alexdamour.com/](http://www.alexdamour.com/) | [alexdamour](https://twitter.com/alexdamour)|
+| Avi Feller | [https://gsppi.berkeley.edu/avi-feller/](https://gsppi.berkeley.edu/avi-feller/) | [avifeller](https://twitter.com/avifeller)|
+| Bernhard Schölkopf | [http://is.tuebingen.mpg.de/person/bs](http://is.tuebingen.mpg.de/person/bs) | [bschoelkopf](https://twitter.com/bschoelkopf)|
+| Sharon-Lise Normand | [https://hcp.hms.harvard.edu/people/sharon-lise-normand](https://hcp.hms.harvard.edu/people/sharon-lise-normand) | | 
+| Guido Imbens | [https://imbens.people.stanford.edu/](https://imbens.people.stanford.edu/) | | 
+
 
 ## Toolboxes - Environment
 

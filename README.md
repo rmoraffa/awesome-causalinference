@@ -32,6 +32,8 @@ Cause, as verb and a noun was studied, discusses and argued about from early day
 
 * Ferenc Huszár serier about cxausality - [part 1](https://www.inference.vc/untitled/), [part 2](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/), [part 3](https://www.inference.vc/causal-inference-3-counterfactuals/)
 * [A Simple Guide to Doubly Robust Estimation](http://www.amitsharma.in/post/doubly-robust-estimation-a-simple-guide/)
+* [Mediation Modeling at Uber: Understanding Why Product Changes Work (and Don’t Work)](https://eng.uber.com/mediation-modeling/)
+* [Using Causal Inference to Improve the Uber User Experience](https://eng.uber.com/causal-inference-at-uber/)
 
 ## Books
 * [Causal Inference - Hernán MA, Robins JM (2019)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)

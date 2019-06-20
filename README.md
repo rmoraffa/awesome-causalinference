@@ -35,6 +35,7 @@ Cause, as verb and a noun was studied, discusses and argued about from early day
 * [Mediation Modeling at Uber: Understanding Why Product Changes Work (and Don’t Work)](https://eng.uber.com/mediation-modeling/)
 * [Using Causal Inference to Improve the Uber User Experience](https://eng.uber.com/causal-inference-at-uber/)
 * Lyft Engineering Blog: Experimentation in a Ridesharing Marketplace - [part1](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e), [part2](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2), [part3](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-f75a9c4fcf01)
+* [All the DAGs from Hernan and Robins' Causal Inference Book](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/)
 
 
 ## Books

@@ -88,7 +88,7 @@ Cause, as verb and a noun was studied, discusses and argued about from early day
 * [dagitty](http://dagitty.net/) - browser-based environment for creating, editing, and analyzing causal models.
 * [CausalImpact](https://google.github.io/CausalImpact/) - R package for causal inference in time series
 * [MatchIt](https://gking.harvard.edu/matchit) - R package for nonparametric preprocessing for parametric causal inference
-
+* [zEpid](https://github.com/pzivich/zEpid) - Epidemiology analysis package including effect measure plots and causal inference tools.
 
 ## Comics
 * [Correlation](https://www.xkcd.com/552/)

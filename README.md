@@ -37,6 +37,7 @@ Cause, as verb and a noun was studied, discusses and argued about from early day
 * Lyft Engineering Blog: Experimentation in a Ridesharing Marketplace - [part1](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e), [part2](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2), [part3](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-f75a9c4fcf01)
 * [All the DAGs from Hernan and Robins' Causal Inference Book](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/)
 * [Introducing the do-sampler for causal inference](https://medium.com/@akelleh/introducing-the-do-sampler-for-causal-inference-a3296ea9e78d)
+* [Awesome Causaliity Algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 
 ## Books
 * [Causal Inference - Hernán MA, Robins JM (2019)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
